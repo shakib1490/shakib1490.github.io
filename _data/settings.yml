@@ -78,11 +78,11 @@ work-process:
 # My Team Section
 team:
   - title : "Jack Schenziwe"
-    image : "assets/images/team/member-1.png"
+    image : "#"
     designation : "Project Manager"
     
   - title : "Julias Carlie"
-    image : "assets/images/team/member-2.png"
+    image : "#"
     designation : "Web Developer"
     
   - title : "John Doe"
