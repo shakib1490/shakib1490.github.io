@@ -2,7 +2,7 @@
 layout: about
 title: About Me
 author: Mahmudul Alam Shakib
-image: assets/image/sakib.jpg
+image: assets/image/sakib.png
 signature: assets/images/about/signature.png
 ---
 
