@@ -1,14 +1,12 @@
 ---
 layout: about
 title: About Me
-author: Johnathan Smith
+author: Mahmudul Alam Shakib
 image: assets/images/about/author.jpg
 signature: assets/images/about/signature.png
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat.
+My journey to research started off with my undergrad senior year thesis titled 'Production of Biofuel from Locally Sourced Microalgae'. 
 
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 Excepteur sint occaecat cupidatat non proident.
