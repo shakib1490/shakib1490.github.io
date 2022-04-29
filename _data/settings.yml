@@ -110,7 +110,7 @@ experience-title: Experience
 experience:
 - {name: Graduate Research Assistant, icon: 'icon-2.png', date: 'Feb 2020 - Present', organization: 'University of Iowa'}
 - {name: Lecturer, icon: 'icon-1.png', date: 'Aug 2019 - Feb 2020', organization: 'European University of Bangladesh'}
-- {name: Engineering Officer, icon: 'icon-3.png', date: 'Sep 2018 - AUg 2019', organization: 'Incepta Pharmaceuticals Ltd.'}
+- {name: Engineering Officer, icon: 'icon-3.png', date: 'Sep 2018 - Aug 2019', organization: 'Incepta Pharmaceuticals Ltd.'}
 
 
 #-------------------------------
@@ -243,7 +243,7 @@ portfolio-items:
 testimonial-items:
   - name: "Sayedus Salehin"
     image: "assets/images/testimonial/Salehin.jpg"
-    designation : "Undergrad Supervisor"
+    designation : "Undergrad Thesis Supervisor"
     content : "I am pleased to write a recommendation for Mr. Shakib who was my direct student during his undergraduate studies. I taught and instructed him in couple of theory and lab courses and found him to be an intelligent individual who used to participate actively in the classes. He achieved the highest grade in all the courses that I have instructed depicting his deep understanding of the subject matters.
 
 I also co-supervised him in his undergraduate final year thesis where he worked on evaluating the possibility of production of biodiesel from local and marine sourced micro-algae in Bangladesh. He has demonstrated empirical information on the production of biodiesel from two different species of microalgae. After collection, isolation, harvesting and production of aforesaid species of microalgae, he has extracted biodiesel from the dry biomass using Soxhlet extraction method. 
