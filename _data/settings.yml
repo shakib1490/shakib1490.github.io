@@ -7,8 +7,8 @@ author: themefisher
 description: this is meta description
 email: sakib.1490@gmail.com
 phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
-copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+address: 605 Woodside Drive, Iowa City, Iowa, USA
+copyright: Copyright &copy; 2022 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
 - {name: About, link: '/about'}
@@ -38,13 +38,14 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: Hi! I’m <br> Shakib <br> Materials Scientist
 
 social:
 - {icon: "ti-facebook", link: "#"}
 - {icon: "ti-instagram", link: "#"}
 - {icon: "ti-dribbble", link: "#"}
 - {icon: "ti-twitter", link: "#"}
+- {icon: "ti-linkedin", link: "https://www.linkedin.com/in/mahmudul-alam-shakib/"}
 
 
 #-------------------------------
@@ -52,7 +53,7 @@ social:
 
 # About Section
 blurb:
-  My Bio should be written here
+  I am a PhD Student at the University of Iowa, where I am a Gradaute Research Assistant in the [Smart Multifunctional Material Systems Lab] (https://www.caterinalamuta.com/). My current research focus is smart materials and functionally graded materials. 
 
 blurb-btn-link: '/about'
 blurb-btn-name: know more
@@ -95,19 +96,20 @@ team:
 
 skills-title: Skills
 skills:
-- {name: Web Design, color: '#fdb157', value: '90%'}
-- {name: Logo Design, color: '#9473e6', value: '60%'}
-- {name: After Effects, color: '#bdecf6', value: '80%'}
-- {name: Web App, color: '#ffbcaa', value: '70%'}
-
+- {name: Electrochemical Characterization, color: '#fdb157', value: '60%'}
+- {name: Mechanical Characterization, color: '#9473e6', value: '90%'}
+- {name: Atomic Force Microscopy, color: '#bdecf6', value: '60%'}
+- {name: Nanomaterials Fabrication, color: '#ffbcaa', value: '70%'}
+- {name: Nano DMA, color: '#ffbcaa', value: '50%'}
+- {name: COMSOL Multiphysics, color: '#ffbcaa', value: '40%'}
 
 #-------------------------------
 # Exprerience Section
 
 experience-title: Experience
 experience:
-- {name: Lecturer, icon: 'icon-1.png', date: 'Jan 2019 - Feb 2029', organization: 'European University of Bangladesh'}
-- {name: UX & UI Designer, icon: 'icon-2.png', date: 'Mar 2009 - Aug 2014', organization: 'AUGMEDIX'}
+- {name: Graduate Research Assistant, icon: 'icon-2.png', date: 'Feb 2020 - Present', organization: 'University of Iowa'}
+- {name: Lecturer, icon: 'icon-1.png', date: 'Aug 2019 - Feb 2020', organization: 'European University of Bangladesh'}
 - {name: Senior UI Designer, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
 
 
