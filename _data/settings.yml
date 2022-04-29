@@ -99,9 +99,9 @@ skills:
 - {name: Electrochemical Characterization, color: '#fdb157', value: '60%'}
 - {name: Mechanical Characterization, color: '#9473e6', value: '90%'}
 - {name: Atomic Force Microscopy, color: '#bdecf6', value: '60%'}
-- {name: Nanomaterials Fabrication, color: '#ffbcaa', value: '70%'}
+- {name: Nanomaterials Fabrication, color: '#9473e6', value: '70%'}
 - {name: Nano DMA, color: '#ffbcaa', value: '50%'}
-- {name: COMSOL Multiphysics, color: '#ffbcaa', value: '40%'}
+- {name: COMSOL Multiphysics, color: '#bdecf6', value: '40%'}
 
 #-------------------------------
 # Exprerience Section
@@ -127,22 +127,22 @@ education:
 #-------------------------------
 # Services Section
 
-services-title: Services
+services-title: Projects
 services:
 - {
-    name: UI Design,
+    name: Artificial Synapse with Ceramic Materials,
     icon: ti-palette,
     description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
     active: # Add true to select section
   }
 - {
-    name: UX Design,
+    name: Manufacturing and Characterization of STM,
     icon: ti-vector,
     description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
     active: true # Add true to select section
   }
 - {
-    name: Interaction Design,
+    name: Novel Piezoelectric Materials,
     icon: ti-panel,
     description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
     active: # Add true to select section
