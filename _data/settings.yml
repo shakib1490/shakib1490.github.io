@@ -108,7 +108,7 @@ skills:
 
 experience-title: Experience
 experience:
-- {name: Graduate Research Assistant, icon: 'icon-2.png', date: 'Feb 2020 - Present', organization: '[University of Iowa](https://uiowa.edu/)'}
+- {name: Graduate Research Assistant, icon: 'icon-2.png', date: 'Feb 2020 - Present', organization: 'University of Iowa'}
 - {name: Lecturer, icon: 'icon-1.png', date: 'Aug 2019 - Feb 2020', organization: 'European University of Bangladesh'}
 - {name: Engineering Officer, icon: 'icon-3.png', date: 'Sep 2018 - Aug 2019', organization: 'Incepta Pharmaceuticals Ltd.'}
 
