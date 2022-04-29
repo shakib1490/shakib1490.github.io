@@ -110,7 +110,7 @@ experience-title: Experience
 experience:
 - {name: Graduate Research Assistant, icon: 'icon-2.png', date: 'Feb 2020 - Present', organization: 'University of Iowa'}
 - {name: Lecturer, icon: 'icon-1.png', date: 'Aug 2019 - Feb 2020', organization: 'European University of Bangladesh'}
-- {name: Senior UI Designer, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
+- {name: Engineering Officer, icon: 'icon-3.png', date: 'Sep 2018 - AUg 2019', organization: 'Incepta Pharmaceuticals Ltd.'}
 
 
 #-------------------------------
@@ -118,10 +118,10 @@ experience:
 
 education-title: Education
 education:
-- {name: Marters in UX Design, date: '2006', organization: 'Masassusets Institute of Technology'}
-- {name: Honours in Fine Arts, date: '2004', organization: 'Harvard University'}
-- {name: Higher Secondary Certificat, date: '2000', organization: 'Cardiff School'}
-- {name: Secondary School Certificate, date: '1998', organization: 'Cardiff School'}
+- {name: PhD in Mechanical Engineering, date: '2020-Present', organization: 'University of Iowa'}
+- {name: BSc in Mechanical Engineering, date: '2017', organization: 'Islamic University of Technology'}
+- {name: Higher Secondary Certificate, date: '2013', organization: 'Barishal Cadet College'}
+- {name: Secondary School Certificate, date: '2011', organization: 'Barishal Cadet College'}
 
 
 #-------------------------------
