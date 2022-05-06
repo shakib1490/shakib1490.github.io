@@ -63,32 +63,32 @@ blurb-btn-name: know more
 
 # Work Process Section
 work-process:
-  - title : "Research and Plan"
+  - title : "Literature Review"
     icon : "assets/images/icons/plan.png"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     
-  - title : "Design and Develop"
+  - title : "Experimentation, Modeling & Simulation"
     icon : "assets/images/icons/design.png"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     
-  - title : "Deliver"
+  - title : "Publication"
     icon : "assets/images/icons/print.png"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
 
 # My Team Section
-team:
-  - title : "Person 1"
-    image : "#"
-    designation : "Project Manager"
+#team:
+ # - title : "Person 1"
+#    image : "#"
+ #   designation : "Project Manager"
     
-  - title : "Person 2"
-    image : "#"
-    designation : "Web Developer"
+ # - title : "Person 2"
+ #   image : "#"
+ #   designation : "Web Developer"
     
-  - title : "Person 3"
-    image : "assets/images/team/.png"
-    designation : "Designer"
+#  - title : "Person 3"
+ #   image : "assets/images/team/.png"
+ #   designation : "Designer"
 
 
 #-------------------------------
@@ -108,7 +108,7 @@ skills:
 
 experience-title: Experience
 experience:
-- {name: Graduate Research Assistant, icon: 'icon-2.png', date: 'Feb 2020 - Present', organization: 'University of Iowa'}
+- {name: Graduate Research Assistant, icon: 'icon-2.png', date: 'Feb 2020 - Present', organization: '[University of Iowa](https://uiowa.edu/absolute-file.html)'}
 - {name: Lecturer, icon: 'icon-1.png', date: 'Aug 2019 - Feb 2020', organization: 'European University of Bangladesh'}
 - {name: Engineering Officer, icon: 'icon-3.png', date: 'Sep 2018 - Aug 2019', organization: 'Incepta Pharmaceuticals Ltd.'}
 
