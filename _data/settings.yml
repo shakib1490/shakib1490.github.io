@@ -7,7 +7,7 @@ author: themefisher
 description: this is meta description
 email: sakib.1490@gmail.com
 phone: +1 319 400 9219
-address: 605 Woodside Drive, Iowa City, Iowa, USA
+address: 605 Woodside Drive, Iowa City, Iowa-52246, USA
 copyright: Copyright &copy; 2022 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
@@ -41,8 +41,6 @@ hero:
   hero-title: Hi! I’m <br> Mahmudul Alam Shakib <br> Materials Engineer
 
 social:
-- {icon: "ti-facebook", link: "#"}
-- {icon: "ti-instagram", link: "#"}
 - {icon: "ti-dribbble", link: "#"}
 - {icon: "ti-twitter", link: "#"}
 - {icon: "ti-linkedin", link: "https://www.linkedin.com/in/mahmudul-alam-shakib/"}
@@ -132,19 +130,19 @@ services:
 - {
     name: Artificial Synapse with Ceramic Materials,
     icon: ti-palette,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-    active: # Add true to select section
+    description: 'Neuromorphic computing is the latest buzzword in the world of artificial intelligence, where the memory chips function like the biological synapses. With a combination of analog and digital computing, artificial synapses aim at reducing the energy consumption and increasing the performance of the memory chips. This entails addressing the bottleneck of Von Neumann Architecture and addressing the limitations of Moore's law.',
+    active: true 
   }
 - {
     name: Manufacturing and Characterization of STM,
     icon: ti-vector,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-    active: true # Add true to select section
+    description: 'Manufacturing and Multiscale characterization of Structurally Tailored Materials like TiB. The samples are manufactured via vacuum sintering method and tested across macro, micro and nano scale for mechanical properties like Young's Modulus, Hardness, Fracture Toughness etc.',
+    active: true 
   }
 - {
     name: Novel Piezoelectric Materials,
     icon: ti-panel,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    description: 'Geopolymer mortars have shown some electromechanical propeties that make them a novel piezoelectric material. With charge coefficient value ranging 4-30 pC/N they are an excellent candidate for materials to be used in Structural Health Monitoring and other piezoelectric applications. With yield strength as high as Ordinary Portland Cement and being environment-friendly, this is an unique material to study.',
     active: # Add true to select section
   }
 
