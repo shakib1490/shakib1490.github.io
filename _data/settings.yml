@@ -38,7 +38,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Mahmudul Alam Shakib <br> Materials Scientist
+  hero-title: Hi! I’m <br> Mahmudul Alam Shakib <br> Materials Engineer
 
 social:
 - {icon: "ti-facebook", link: "#"}
@@ -174,15 +174,15 @@ portfolio-home-items:
 # Portfolio Page
 portfolio-label:
 - {
-    title : "UI/UX Design",
+    title : "Piezoelectrics",
     type : "design"
   }
 - {
-    title : "BRANDING",
+    title : "Memristors",
     type : "branding"
   }
 - {
-    title : "ILLUSTRATION",
+    title : "FGM/STM",
     type : "illustration"
   }
 
